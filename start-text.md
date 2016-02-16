@@ -11,4 +11,4 @@ You can use markdown in many of the text fields on GitHub to add extra formattin
 * Comments in Issues and Pull Requests
 * Files with the `.md` or `.markdown extension`
 
-and the GitHub preview will apply the markdown formating.
+and the GitHub preview will apply the markdown formating. (but only if the file extension is one of `.markdown`, `.mdown`, `.mkdn`, `.mkd`, `.md`)
